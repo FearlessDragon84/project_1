@@ -37,8 +37,10 @@ class ProtofolioApp extends StatelessWidget {
                     width: 150,
                     height: 150,
                     color: Colors.yellow,
-                    child: Center(child: Text('Amr',style:
-                    TextStyle(fontSize: 22, fontWeight: FontWeight.w500))),
+                    child: Center(
+                        child: Text('Amr',
+                            style: TextStyle(
+                                fontSize: 22, fontWeight: FontWeight.w500))),
                   ),
                   SizedBox(width: 30),
                   Container(
@@ -75,16 +77,20 @@ class ProtofolioApp extends StatelessWidget {
                     width: 150,
                     height: 150,
                     color: Colors.blue,
-                    child: Center(child: Text('11/10/2005', style:
-                        TextStyle(fontSize: 22, fontWeight: FontWeight.w500))),
+                    child: Center(
+                        child: Text('11/10/2005',
+                            style: TextStyle(
+                                fontSize: 22, fontWeight: FontWeight.w500))),
                   ),
                   SizedBox(width: 30),
                   Container(
                     width: 150,
                     height: 150,
                     color: Colors.orange,
-                    child: Center(child: Text('18',style:
-                    TextStyle(fontSize: 22, fontWeight: FontWeight.w500))),
+                    child: Center(
+                        child: Text('18',
+                            style: TextStyle(
+                                fontSize: 22, fontWeight: FontWeight.w500))),
                   ),
                 ],
               ),
